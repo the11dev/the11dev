@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on developing my skills in frontend.(WebDev)
+💻 Actively enhancing my web development skills by working on exciting projects.
+🌱 Always eager to learn and grow, both personally and professionally.
 
 
 ## 🌐 Socials:
