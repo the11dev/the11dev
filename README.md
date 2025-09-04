@@ -1,5 +1,11 @@
-## 👩‍💻 About Me  <br><br>- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering (AI Specialization)**  <br>- 💡 Passionate about **Web Development, Data Structures & Algorithms, and AI/ML**  <br>- 🚀 Currently learning **Full-Stack Development (React, Spring Boot) & Generative AI**  <br>- 🛠️ Skilled in **Java, Python, JavaScript, HTML, CSS**  <br>- 📌 Exploring **AI + Web Development integration** to build impactful projects  <br>- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vsnvi11) | [Portfolio](your-portfolio-link)  <br><br>
+## 👩‍💻 About Me  
 
+- 🎓 I’m currently pursuing B.Tech in Computer Science Engineering (AI Specialization)  
+- 💡 Passionate about Web Development, Data Structures & Algorithms, and AI/ML  
+- 🚀 Currently learning Full-Stack Development (React, Spring Boot) & Generative AI  
+- 🛠️ Skilled in Java, Python, JavaScript, HTML, CSS  
+- 📌 Exploring AI + Web Development integration to build impactful projects  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vsnvi11) | [Portfolio](your-portfolio-link)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vsnvi11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavim1105@gmail.com) 
